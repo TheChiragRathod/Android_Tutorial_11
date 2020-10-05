@@ -7,4 +7,15 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <!-- activity_user_data.xml file TextView style theme. -->
+
+    <style name="User_TextView_Style">
+        <item name="android:textSize"> 22dp</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:layout_marginBottom">10dp</item>
+
+
+    </style>
+
 </resources>
